@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyanshu5088
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java with DSA
-- 💞️ I’m looking to collaborate on coders
+- 💞️ I’m looking to collaborate with coders
 - 📫 How to reach me my username 
 
 <!---
