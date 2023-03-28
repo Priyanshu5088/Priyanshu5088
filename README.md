@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Priyanshu5088
-- 👀 I’m interested in coding 
+- 👀 I’m interested in new technologies 
 - 🌱 I’m currently learning java with DSA
 - 💞️ I’m looking to collaborate with coders
-- 📫 How to reach me my username 
+- 📫 How to reach me my ..
 
 <!---
 Priyanshu5088/Priyanshu5088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
