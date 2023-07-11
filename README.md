@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshu5088
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning java with DSA
+- 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate with coders
 - 📫 How to reach me my ..
 
