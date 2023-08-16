@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/36b1fbfd281b05444d425a6b501f0e777396c06968bd4ca4b3845e2fbd1727b8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31352f65372f65332f31356537653330303136366339363264336238613232663630623563616339652e676966)](https://Priyanshu5088.io)
 <h1 align="center">Hi 👋, I'm Priyanshu Singh Chouhan</h1>
 <h3 align="center">An Enthusiatic Data Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5/fullscreen"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/32512/screenshots/3629624/ai_product_v2.gif"
 
 <p align="left"> <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="priyanshu5088" /> </p>
 
