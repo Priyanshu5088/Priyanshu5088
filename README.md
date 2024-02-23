@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh Chouhan</h1>
 <h3 align="center">An Enthusiatic WEB DEVELOPER from INDIA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu5088&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu5088" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@priyanshu_01010" target="blank"><img src="https://img.shields.io/twitter/follow/@priyanshu_01010?logo=twitter&style=for-the-badge" alt="@priyanshu_01010" /></a> </p>
