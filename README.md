@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu5088&show_icons=true&locale=en" alt="priyanshu5088" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu5088&" alt="priyanshu5088" /></p>
+<p><img align="center" backrground-color: black src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu5088&" alt="priyanshu5088" /></p>
 
