@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif)](https://Priyanshu5088.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Priyanshu5088.io)
 <h1 align="center">Hi 👋, I'm Priyanshu Singh Chouhan</h1>
 <h3 align="center">An Enthusiatic WEB DEVELOPER from INDIA</h3>
 
