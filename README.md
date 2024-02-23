@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/priyanshu singh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu singh chouhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyanshu00singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanshu00singh" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu singh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu singh chouhan" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu_singh_chouhan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_singh_chouhan__" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshu_singh_chouhan__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="priyanshu_singh_chouhan__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
