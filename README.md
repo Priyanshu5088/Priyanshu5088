@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh Chouhan</h1>
 <h3 align="center">An Enthusiatic WEB DEVELOPER from INDIA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/metadigital-meta-web-design-digital-YTzh3zw4mj1XpjjiIb">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu5088&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu5088" /> </p>
 
