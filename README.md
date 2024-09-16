@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@priyanshu_01010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshu_01010" height="30" width="40" /></a>
+<a href="https://twitter.com/@priyanshu_01010" target="blank"><img align="center" src="https://www.freepik.com/free-photos-vectors/x-logo" alt="@priyanshu_01010" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu singh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu singh chouhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyanshu00singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanshu00singh" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu singh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu singh chouhan" height="30" width="40" /></a>
